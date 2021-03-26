@@ -20,3 +20,5 @@ if you like you can follow me on twitter or something
 And if you'd like to get the repository for the Black jack game we built prior to this project just go to [this link](https://github.com/jdsoteldo/blackjack-game) and clone it using the same commands you used to clone this repo!
 
 Feel free to clone the repo, change it, fork it, keep building on top of what I provided and customize the code in any way, shape or form you wish.
+ 
+**_NOTE: If you would like to add new words, delete, update or manipulate in any way the words I have provided you can do so by opening the hangman_words.py file and changing the words from the word_list array_**
